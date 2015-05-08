@@ -1,0 +1,134 @@
+﻿/* Users.html Page ----*/
+
+.cSurvey{
+	width:350px;
+	overflow:auto;
+}
+
+.cSurvey p{
+	float:right;
+}
+
+.cSurvey .rightButton{
+	margin-left:32px;
+}
+
+/*----Account.html Page --------*/
+
+.account_name{
+	float:left;
+	width:225px;
+}
+
+.account_button{
+	float:left;
+	width:70px;
+	height:70px;
+}
+
+.title{
+	font-size:20px;
+}
+
+
+/* ----- Survey.html Page -----*/
+.column{
+	width:40%;
+	margin:10px 3%;
+}
+
+.check{
+	width:100%;
+	overflow:auto;
+}
+
+.column input{
+	float:left;
+}
+
+.column p{
+	float:left;
+	margin-left:5px;
+	margin-bottom:10px;
+	margin-top:-2px;
+}
+
+.buttonHolder{
+	float:left;
+	width:150px;
+	overflow:auto;
+}
+
+.leftButton{
+	float:left;
+}
+
+.rightButton{
+	float:right;
+}
+
+/* ----- Sections.html Page ----*/
+.xButton{
+	width:100%;
+	margin:auto;
+}
+
+#section{
+	float:left;
+	position:relative;
+	top:12.5px;
+}
+
+/* Controls width choice column's textbox */
+#textWidth{
+	width:95%;
+	margin:auto;
+}
+
+/* Controls width of position column */
+.position{
+	width:15%;
+}
+
+/* Controls width of choice column */
+.choiceDesc{
+	width:50%;
+}
+
+/* Controls width of "users permitted ..." column and type column */
+.userGroups{
+	width:15%;
+}
+
+/* Controls width of remove column */
+.removeButton{
+	width:2%;
+}
+
+/* Controls the title for the "User's permitted..." column's checkboxes */
+.userText{
+	float:left;
+	position:relative;
+	color:black;
+	bottom:7px;
+	margin:5px;
+}
+
+/* Groups checkboxes and text together for the "User's permitted..." column */
+.userSpan{
+	float:left;
+	width:98%;
+	margin:auto;
+}
+
+/* Controls the width of the Type column's dropdown menu */
+.type{
+	width:98%;
+	margin:auto;
+}
+
+.tableHeader{
+	background-color:#663300;
+	color:white;
+	font-weight:bold;
+}
